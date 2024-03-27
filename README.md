@@ -16,9 +16,9 @@ https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017
 
   @misc{Wallace_2024,  
   author = {Wallace, Steven},
-  title = "PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification",
-  howpublished = "GitHub",
-  month = "Mar. 27,",   
+  title = {{PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classificatiom}},
+  howpublished = {GitHub},
+  month = {Mar. 27},   
   year = {2019},
-  url = "https://github.com/Stevieee83/PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification"
+  url = {{https://github.com/Stevieee83/PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification}}
   }
