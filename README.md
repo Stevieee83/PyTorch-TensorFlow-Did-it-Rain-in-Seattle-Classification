@@ -10,15 +10,15 @@ The tabular dataset that was used is the Did it Rain in Seattle (1948 to 2017). 
 
 https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017
 
-## GitHub Repository BibTex Citation
-
 <br>
 
-  @misc{Wallace_2024,  
-  author = {Wallace, Steven},
-  title = {{PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classificatiom}},
-  howpublished = {GitHub},
-  month = {Mar. 27},   
-  year = {2019},
-  url = {{https://github.com/Stevieee83/PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification}}
-  }
+## GitHub Repository BibTex Citation
+
+    @misc{Wallace_2024,  
+    author = {Wallace, Steven},
+    title = {{PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classificatiom}},
+    howpublished = {GitHub},
+    month = {Mar. 27},   
+    year = {2019},
+    url = {{https://github.com/Stevieee83/PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification}}
+    }
