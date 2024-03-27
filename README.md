@@ -9,3 +9,14 @@ The requirements.txt file has been included for PyTorch and TensorFlow. Using th
 The tabular dataset that was used is the Did it Rain in Seattle (1948 to 2017). The CSV version of the dataset is available from Kaggle at:
 
 https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017
+
+## GitHub Repository BibTex Citation
+
+@misc{Wallace_2024,  
+author = {Wallace, Steven},
+title = "PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification",
+howpublished = "GitHub",
+month = "Mar. 27,",   
+year = {2019},
+url = "https://github.com/Stevieee83/PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification"
+}
