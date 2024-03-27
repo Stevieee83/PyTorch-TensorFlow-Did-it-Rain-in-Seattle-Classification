@@ -19,6 +19,6 @@ https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017
     title = {{PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classificatiom}},
     howpublished = {GitHub},
     month = {Mar. 27},   
-    year = {2019},
+    year = {2024},
     url = {{https://github.com/Stevieee83/PyTorch-TensorFlow-Did-it-Rain-in-Seattle-Classification}}
     }
